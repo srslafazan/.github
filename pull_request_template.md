@@ -6,15 +6,15 @@
      commits if your PR already received reviews or comments.
 
      Before submitting a Pull Request, please ensure you've done the following:
-     - 📖 Read the Molecule Protocol Contributing Guide: https://github.com/molecule-protocol/.github/docs/create-a-pull-request
-     - 📖 Read the Molecule Protocol Code of Conduct: https://github.com/molecule-protocol/.github/blob/main/CODE_OF_CONDUCT.md
+     - 📖 Read the srslafazan Contributing Guide: https://github.com/srslafazan/.github/docs/create-a-pull-request
+     - 📖 Read the srslafazan Code of Conduct: https://github.com/srslafazan/.github/blob/main/CODE_OF_CONDUCT.md
      - 👷‍♀️ Create small PRs. In most cases this will be possible.
      - ✅ Provide tests for your changes.
      - 📝 Use descriptive commit messages.
      - 📗 Update any related documentation and include any relevant screenshots.
 
      NOTE: Pull Requests from forked repositories will need to be reviewed by
-     a Molecule Protocol Team member before any CI builds will run. Once your PR is approved
+     a srslafazan Team member before any CI builds will run. Once your PR is approved
      with a `/ci` reply to the PR, it will be allowed to run subsequent builds without
      manual approval.
 -->
@@ -59,7 +59,7 @@ _If your PR includes UI changes, please utilize this checklist:_
 - [ ] Color contrast tested?
 
 _For more info, check out the
-[Molecule Protocol Accessibility Docs](https://developers.molecule-protocol.com/frontend/accessibility)._
+[srslafazan Accessibility Docs](https://developers.srslafazan.com/frontend/accessibility)._
 
 ## Added/updated tests?
 

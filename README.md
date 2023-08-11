@@ -1,3 +1,3 @@
 # .github
 
-Organization-wide default files for Molecule Protocol repos.
+Organization-wide default files for srslafazan repos.
